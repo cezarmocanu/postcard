@@ -1,3 +1,2 @@
-# Getting Started with Create React App
+# See the app at [https://cezarmocanupostcard.herokuapp.com/](https://cezarmocanupostcard.herokuapp.com/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
